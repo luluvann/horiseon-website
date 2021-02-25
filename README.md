@@ -2,7 +2,7 @@
 The original codebase of the Horiseon Marketing Agency's web landing page needed improvements to meet accessibility requirements. This repository contains the improved and refactored codebase of the web landing page.
 
 ## Link to the deployed website
-To view the deployed website on Github pages : [https://luluvann.github.io/horiseon/](https://luluvann.github.io/horiseon/)
+To view the deployed website on Github pages : [https://luluvann.github.io/horiseon/](https://luluvann.github.io/horiseon-website/)
 
 ## Preview of the website
 ![](./assets/images/horiseon-preview.gif)
